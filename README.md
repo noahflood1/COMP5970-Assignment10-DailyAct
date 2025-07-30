@@ -10,7 +10,7 @@ Your app should:
 
 - Include a logout button
 
-# My Objective
+## My Objective
 
 My goal was to meet the assignment requirements by making a simple app that includes basic navigation and integrates Firebase Authentication.
 
