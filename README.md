@@ -6,7 +6,7 @@ The idea for this app was to show the user a random act of kindness for the day 
 
 There is no real functionality except for the basic requirements as of now.
 
-Assignment reqs:
+## Assignment Requirements:
 
 Your app should:
 
@@ -17,3 +17,9 @@ Your app should:
 - Handle simple error states (e.g., incorrect credentials)
 
 - Include a logout button
+
+## Note about `GoogleService-Info.plist'
+
+This code requires a `GoogleService-Info.plist` file to be added to the Project so that it can connnect to my Firebase. 
+
+If you are the grader for this, I will send you this file directly.
