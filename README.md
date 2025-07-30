@@ -23,3 +23,7 @@ There is no real functionality except for the basic requirements as of now.
 This code requires a `GoogleService-Info.plist` file to be added to the Project so that it can connnect to my Firebase. 
 
 If you are the grader for this, I will send you this file directly.
+
+## Note about commit history
+
+I just deleted all commit history in order to avoid tediouness of trying to figure out where secrets might have been stored, with the downside of not being able to see the progressive changes I made to the app.
